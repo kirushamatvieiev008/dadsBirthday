@@ -1,0 +1,145 @@
+.container {
+    width: 500px;
+    margin: 0 auto;
+    /* outline: solid red 1px; */
+    margin-top: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.with_happy_birthday {
+    padding-top: 50px;
+    text-align: center;
+    margin: 0;
+    font-size: 20px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 900;
+    font-style: normal;
+}
+
+.txt_happy {
+    text-indent: 30px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.lets_remember {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.ul_photos {
+    width: 400px;
+    margin: 0 auto;
+    padding: 0;
+    padding-top: 20px;
+    list-style: none;
+}
+
+.eating {
+    width: 200px;
+    margin: 0 auto;
+    padding-bottom: 20px;
+}
+
+li {
+    text-align: center;
+
+}
+
+.ofcourse {
+    padding-top: 60px;
+    width: 450px;
+    margin: 0 auto;
+    text-align: center;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 600;
+    font-style: normal;
+    /* padding-bottom: 60px; */
+}
+
+.car {
+    padding-top: 60px;
+    text-align: center;
+    padding-bottom: 20px;
+}
+
+.home {
+    padding-top: 40px;
+    padding-bottom: 20px;
+}
+
+.press_money {
+    margin: 0 auto;
+    display: block;
+    margin-top: 60px;
+    width: 300px;
+    height: 50px;
+    color: white;
+    font-size: 14px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    background-color: black;
+    border-radius: 20px;
+    border: none;
+    margin-bottom: 100px;
+    cursor: pointer;
+}
+
+.money_footer {
+    /* position: absolute; */
+    /* top:  50%; */
+    /* left: 50%; */
+    /* transform: translate(-50%); */
+    padding-top: 100px;
+    /* margin: 0 auto; */
+    /* text-align: center; */
+    padding-left: 25px;
+    padding-bottom: 100px;
+    width: 450px;
+    display: none;
+}
+
+.sorry {
+    text-align: center;
+    font-family: "Inter", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: 400;
+        font-style: normal;
+        font-size: 14px;
+        padding-bottom: 50px;
+        display: none;
+}
+
+.porsche2023 {
+    /* margin: 200px; */
+    /* padding-top: 20px; */
+
+}
+
+/* 
+.inter-<uniquifier> {
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+} */
