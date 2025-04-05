@@ -3,6 +3,37 @@
     margin: 0 auto;
     /* outline: solid red 1px; */
     margin-top: 0;
+    display: none;
+}
+
+.hb {
+    width: 200px;
+    height: 50px;
+    border-radius: 20px;
+    border: none;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    margin-top: 100px;
+    /* margin: 0 auto; */
+    margin-bottom: 20px;
+}
+
+.btnHb {
+    width: 200px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.pressTheBtn {
+    /* margin-top: 20px; */
+    font-size: 12px;
+    font-family: "Inter", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    width: 200px;
+    /* text-align: center; */
 }
 
 body {
@@ -122,12 +153,12 @@ li {
 .sorry {
     text-align: center;
     font-family: "Inter", sans-serif;
-        font-optical-sizing: auto;
-        font-weight: 400;
-        font-style: normal;
-        font-size: 14px;
-        padding-bottom: 50px;
-        display: none;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 14px;
+    padding-bottom: 50px;
+    display: none;
 }
 
 .porsche2023 {
